@@ -1,0 +1,36 @@
+.login {
+    width: 300px;
+    height: 300px;
+    border: 1px solid grey;
+    border-radius: 10px;
+    text-align: center;
+    background: white;
+    margin: 150px auto;
+}
+h2 {
+    color: aqua;
+    font-family: sans-serif;
+}
+.login input {
+    width: 200px;
+    height: 40px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: 1px solid grey;
+    padding-left: 20px;
+}
+.login button {
+    width: 200px;
+    height: 40px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: none;
+    background-color: blue;
+    color: white;
+}
+.login button:hover { 
+    font-size: 15px;
+}
+body {
+    background: grey;
+}
